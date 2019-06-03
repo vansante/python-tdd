@@ -1,2 +1,5 @@
 *.log
 virtualenv
+__pycache__
+*.pyc
+*.sqlite3
